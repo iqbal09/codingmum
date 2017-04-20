@@ -1,6 +1,6 @@
 ---
 title: Lesson 08
-permalink: lesson-08.html
+permalink: lesson-08.md
 ---
 
 # CODING MUM
@@ -71,4 +71,4 @@ permalink: lesson-08.html
 [5]: lesson-05.md "Pengenalan Website Development"
 [6]: lesson-06.md "Pengenalan Website Development"
 [7]: lesson-07.md "Pengenalan Website Development"
-[8]: lesson-08.html "Pengenalan Website Development"
+[8]: lesson-08.md "Pengenalan Website Development"
