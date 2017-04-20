@@ -1,37 +1,22 @@
-# Coding Mum
+# CODING MUM
 
 [[Home]][0] [[Lesson 01]][1] [[Lesson 02]][2] [[Lesson 03]][3] [[Lesson 04]][4] [[Lesson 05]][5] [[Lesson 06]][6] [[Lesson 07]][7] [[Lesson 08]][8]
 
 ---
 
-### Lesson I: Pengenalan Website Development
+### Lesson II: HTML DAN CSS DASAR
 
 ---
 
 ### Tujuan
-1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
-2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
-  * Header
-  *  Navigation
-  *  Content
-  *  Sidebar
-  *  Footer
+1. Peserta mampu membuat HTML dan CSS dasar dengan text editor sederhana.
+2. Peserta mengerti sistem page dalam suatu website.
 
 ---
 
 ### Materi
 
 #### 1. Teknologi front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
-
-#### 2. Tools front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
-
-#### 3.
 * HTML = Structure
 * CSS = Design
 * JavaScript = Interactivity
