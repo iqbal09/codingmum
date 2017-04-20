@@ -12,11 +12,11 @@
 ### Tujuan
 1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
-  * Header
-  *  Navigation
-  *  Content
-  *  Sidebar
-  *  Footer
+    *  Header
+    *  Navigation
+    *  Content
+    *  Sidebar
+    *  Footer
 
 ---
 
