@@ -1,6 +1,7 @@
 # CODING MUM
 
-[[Home]][0] [[Lesson 01]][1] [[Lesson 02]][2] [[Lesson 03]][3] [[Lesson 04]][4] [[Lesson 05]][5] [[Lesson 06]][6] [[Lesson 07]][7] [[Lesson 08]][8]
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Lesson 08][8] |
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 
 ---
 
@@ -39,7 +40,8 @@
 
 ---
 
-[[Home]][0] [[Lesson 01]][1] [[Lesson 02]][2] [[Lesson 03]][3] [[Lesson 04]][4] [[Lesson 05]][5] [[Lesson 06]][6] [[Lesson 07]][7] [[Lesson 08]][8]
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Lesson 08][8] |
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 
 [0]: README.md "Pengenalan Website Development"
 [1]: lesson-01.md "Pengenalan Website Development"
