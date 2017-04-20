@@ -1,5 +1,9 @@
 # Coding Mum
 
+[[Home]][0] [[Lesson 01]][1] [[Lesson 02]][2] [[Lesson 03]][3] [[Lesson 04]][4] [[Lesson 05]][5] [[Lesson 06]][6] [[Lesson 07]][7] [[Lesson 08]][8]
+
+---
+
 ### Lesson I: Pengenalan Website Development
 
 ---
@@ -50,7 +54,14 @@
 
 ---
 
-Jump to Lessons: [[01]][1] [[02]][2]
+[[Home]][0] [[Lesson 01]][1] [[Lesson 02]][2] [[Lesson 03]][3] [[Lesson 04]][4] [[Lesson 05]][5] [[Lesson 06]][6] [[Lesson 07]][7] [[Lesson 08]][8]
 
+[0]: README.md "Pengenalan Website Development"
 [1]: lesson-01.md "Pengenalan Website Development"
 [2]: lesson-02.md "Pengenalan Website Development"
+[3]: lesson-03.md "Pengenalan Website Development"
+[4]: lesson-04.md "Pengenalan Website Development"
+[5]: lesson-05.md "Pengenalan Website Development"
+[6]: lesson-06.md "Pengenalan Website Development"
+[7]: lesson-07.md "Pengenalan Website Development"
+[8]: lesson-08.md "Pengenalan Website Development"
