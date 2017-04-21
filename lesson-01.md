@@ -23,32 +23,32 @@
 ### Materi
 
 #### 1. Teknologi dalam website development
-      * Front-end: HTML, CSS, JavaScript.
-      * Back-end: PHP, Python, Ruby, Java, dll.
-      * Database: MySQL, PostgreSQL, Oracle, dll.
+    * Front-end: HTML, CSS, JavaScript.
+    * Back-end: PHP, Python, Ruby, Java, dll.
+    * Database: MySQL, PostgreSQL, Oracle, dll.
 
 #### 2. Tools dalam website development
-      * Text Editor:
-          * Notepad
-          * Sublime Text
-          * Atom
-          * Brackets
-          * Dll
-      * Browser:
-          * Google Chrome
-          * Mozilla Firefox
-          * Internet Explorer
-          * Opera
-          * Safari
-          * Dll
+    * Text Editor:
+        * Notepad
+        * Sublime Text
+        * Atom
+        * Brackets
+        * Dll
+    * Browser:
+        * Google Chrome
+        * Mozilla Firefox
+        * Internet Explorer
+        * Opera
+        * Safari
+        * Dll
 
 #### 3. Struktur dalam website
-      * Header
-      * Navigation
-      * Wow Factor (Slider, Parallax, Carousel, dll)
-      * Content
-      * Sidebar
-      * Footer
+    * Header
+    * Navigation
+    * Wow Factor (Slider, Parallax, Carousel, dll)
+    * Content
+    * Sidebar
+    * Footer
 
 ---
 
@@ -59,7 +59,7 @@
     * **Content**
     * **Sidebar**
     * **Footer**
-2. Berdasarkan contoh no.1, Gambar struktur website menggunakan Paper Protoyping.
+2. Gambarkan struktur website yang diinginkan menggunakan Paper Protoyping.
 
 ---
 
