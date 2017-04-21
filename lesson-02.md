@@ -41,48 +41,48 @@
   <h6>Heading 6</h6>
   ```
 * Anchor / Link
-  ```
+  ```html
   <a href="http://google.com">Ini text link menuju Google</a>
   ```
-  ```
+  ```html
   <a href="about-us.html">Ini text link menuju file about-us.html</a>
   ```
 * Paragraph
-  ```
+  ```html
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   ```
 * List
-  ```
+  ```html
   <ul>
     <li>Unordered list 1</li>
     <li>Unordered list 2</li>
   </ul>
   ```
-  ```
+  ```html
   <ol>
     <li>Ordered list 1</li>
     <li>Ordered list 2</li>
   </ol>
   ```
 * Image
-  ```
+  ```html
   <img src="nama_folder/nama_file.jpg">
   <img src="nama_folder/nama_file.png">
   <img src="nama_folder/nama_file.gif">
   ```
 * Video
-  ```
+  ```html
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-We_dYsLTtY" frameborder="0" allowfullscreen></iframe>
   ```
 * Form
-  ```
+  ```html
   <form>
     <input type="text" name="search">
     <input type="submit" value="Submit">
   </form>
   ```
 * Table
-  ```
+  ```html
   <table>
     <tr>
       <td>Kolom 1</td>
@@ -93,7 +93,7 @@
 
 #### 2. Sintaks CSS Dasar
 * Class
-  ```
+  ```css
   .header {
     background-color: #ff0000;
     height: 100px;
@@ -106,7 +106,7 @@
   }
   ```
 * ID
-  ```
+  ```css
   #header {
     background-color: #ff0000;
     height: 100px;
@@ -122,14 +122,14 @@
 ---
 
 ### Latihan
-1. Buat file HTML:
+1. Buat file HTML dengan:
     * Logo
-    * Navigasi anchor / link
+    * Navigation anchor / link
     * Heading
     * Content
     * Images
     * Video
-2. Buat file CSS eksternal:
+2. Buat file CSS eksternal dengan:
     * Class
     * Aturan:
       * background-color
