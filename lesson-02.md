@@ -32,7 +32,7 @@
 
 #### 1. Sintaks HTML Dasar
 * Heading
-  ```
+  ```html
   <h1>Heading 1</h1>
   <h2>Heading 2</h2>
   <h3>Heading 3</h3>
@@ -42,36 +42,100 @@
   ```
 * Anchor / Link
   ```
-  <a href="">Ini adalah judul utama</a>
+  <a href="http://google.com">Ini text link menuju Google</a>
+  ```
+  ```
+  <a href="about-us.html">Ini text link menuju file about-us.html</a>
+  ```
+* Paragraph
+  ```
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  ```
+* List
+  ```
+  <ul>
+    <li>Unordered list 1</li>
+    <li>Unordered list 2</li>
+  </ul>
+  ```
+  ```
+  <ol>
+    <li>Ordered list 1</li>
+    <li>Ordered list 2</li>
+  </ol>
+  ```
+* Image
+  ```
+  <img src="nama_folder/nama_file.jpg">
+  <img src="nama_folder/nama_file.png">
+  <img src="nama_folder/nama_file.gif">
+  ```
+* Video
+  ```
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-We_dYsLTtY" frameborder="0" allowfullscreen></iframe>
+  ```
+* Form
+  ```
+  <form>
+    <input type="text" name="search">
+    <input type="submit" value="Submit">
+  </form>
+  ```
+* Table
+  ```
+  <table>
+    <tr>
+      <td>Kolom 1</td>
+      <td>Kolom 2</td>
+    </tr>
+  </table>
   ```
 
 #### 2. Sintaks CSS Dasar
-* Heading
+* Class
   ```
-  <h1>Ini adalah judul utama</h1>
+  .header {
+    background-color: #ff0000;
+    height: 100px;
+    width: 100%;
+  }
+
+  .logo {
+    color: #000;
+    font-size: 20px;
+  }
   ```
-* Heading
+* ID
   ```
-  <h1>Ini adalah judul utama</h1>
+  #header {
+    background-color: #ff0000;
+    height: 100px;
+    width: 100%;
+  }
+
+  #logo {
+    color: #000;
+    font-size: 20px;
+  }
   ```
 
 ---
 
 ### Latihan
 1. Buat file HTML:
-  * Logo
-  * Navigasi anchor / link
-  * Heading
-  * Content
-  * Images
-  * Video
+    * Logo
+    * Navigasi anchor / link
+    * Heading
+    * Content
+    * Images
+    * Video
 2. Buat file CSS eksternal:
-  * Class
-  * Aturan:
-    * background-color
-    * color
-    * font-size
-    * dll
+    * Class
+    * Aturan:
+      * background-color
+      * color
+      * font-size
+      * dll
 
 ---
 
