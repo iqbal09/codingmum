@@ -54,11 +54,12 @@
 
 ### Latihan
 1. Buka beberapa website. Tunjukkan kepada peserta bagian dari tiap website:
-    * **Header**
-    * **Navigation**
-    * **Content**
-    * **Sidebar**
-    * **Footer**
+    * Header
+    * Navigation
+    * Wow Factor (Slider, Parallax, Carousel, dll)
+    * Content
+    * Sidebar
+    * Footer
 2. Gambarkan struktur website yang diinginkan menggunakan Paper Protoyping.
 
 ---
