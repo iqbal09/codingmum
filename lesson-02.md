@@ -5,13 +5,25 @@
 
 ---
 
-### Lesson II: HTML DAN CSS DASAR
+### Lesson 02: HTML DAN CSS DASAR
 
 ---
 
 ### Tujuan
 1. Peserta mampu membuat HTML dan CSS dasar dengan text editor sederhana.
-2. Peserta mengerti sistem page dalam suatu website.
+2. Peserta mengerti konsep page dalam website.
+
+---
+
+### Tools
+1. Windows: Notepad
+2. Mac: TextEdit
+3. Browser:
+    * Google Chrome
+    * Mozilla Firefox
+    * Internet Explorer
+    * Opera
+    * Safari
 
 ---
 
@@ -22,21 +34,29 @@
 * CSS = Design
 * JavaScript = Interactivity
 
+#### 2. Sintaks HTML Dasar
+* Heading
+  ```
+  <h1>Ini adalah judul utama</h1>
+  ```
+* Heading
+  ```
+  <h1>Ini adalah judul utama</h1>
+  ```
+
 ---
 
 ### Latihan
-1. Buka beberapa website. Tunjukkan kepada peserta bagian **Header**, **Navigation**, **Content**, **Sidebar**, **Footer** dari tiap website.
-2. Berdasarkan contoh no.1, Gambar struktur website menggunakan Paper Protoyping.
 
 ---
 
 ### Review
-1.
 
 ---
 
 ### Referensi
-1. [Test Paper Prototypes to Save Time and Money: The Mozilla Case Study](https://www.nngroup.com/articles/mozilla-paper-prototype/ "Test Paper Prototypes to Save Time and Money: The Mozilla Case Study")
+1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 "Intro to HTML and CSS")
+2. [HTML & CSS for Beginners](https://www.codecademy.com/en/tracks/htmlcss "HTML & CSS for Beginners")
 
 ---
 
