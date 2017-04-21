@@ -53,6 +53,10 @@
       * Opera
       * Safari
       * Dll
+  * Browser Extension / Plugin:
+      * Inspect Element
+      * Web developer
+      * Dll
 
 #### 3. Struktur dalam website
   * Header
@@ -61,6 +65,7 @@
   * Content
   * Sidebar
   * Footer
+  * Dll
 
 ---
 
@@ -72,6 +77,7 @@
     * Content
     * Sidebar
     * Footer
+    * Dll
 2. Gambarkan struktur website yang diinginkan menggunakan Paper Protoyping.
 
 ---
