@@ -12,9 +12,9 @@
 ### Elemen Penilaian:
 
 #### 1. Kode
-- [x] Kebenaran kode
-- [x] Keterbacaan kode
-- [x] Hierarki kode
+- [x] Kebenaran kode baik
+- [x] Keterbacaan kode baik
+- [x] Hierarki kode baik
 
 #### 2. Fungsional
 - [x] Elemen tersusun dengan baik
@@ -27,6 +27,9 @@
 
 #### 4. User Experience (UX)
 - [x] Navigasi mudah
+- [x] Hierarki informasi jelas
+
+#### 5. Information Architecture (IA)
 - [x] Hierarki informasi jelas
 
 ---

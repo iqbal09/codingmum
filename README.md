@@ -55,10 +55,12 @@
 ----
 
 ### LESSON 8: PRESENTASI
-#### Tujuan:
-1. UI/UX: Keindahan dan kenyamanan suatu website.
-2. Informasi: Hierarki dan penyampaian informasi yang jelas.
-3. Code: kerapian dan readability kode.
+#### Elemen penilaian:
+1. Kode
+2. Fungsional
+3. User Interface (UI)
+4. User Experience (UX)
+5. Information Architecture (IA)
 
 ----
 
