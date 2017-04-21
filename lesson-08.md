@@ -5,53 +5,42 @@
 
 ---
 
-### LESSON VIII: PRESENTASI
+### LESSON 8: PRESENTASI
 
 ---
 
-### Tujuan
-1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
-2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
-    *  Header
-    *  Navigation
-    *  Content
-    *  Sidebar
-    *  Footer
+### Penilaian
 
----
+#### 1. Kode
+- [x] Kebenaran kode
+- [x] Keterbacaan kode
+- [x] Hierarki kode
 
-### Materi
+#### 2. Fungsional
+- [x] HTML = Structure
+- [x] CSS
+- [x] Anchors bekerja dengan baik
 
-#### 1. Teknologi front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 3. Informasi
+- [x] HTML = Structure
+- [x] CSS = Design
+- [x] Links
 
-#### 2. Tools front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
 
-#### 3.
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 2. User Interface (UI)
+- [x] Struktur HTML baik
+- [x] CSS indah
+- [x] Harmoni warna
 
----
+#### 3. User Experience (UX)
+- [x] HTML = Structure
+- [x] CSS = Design
+- [x] Links
 
-### Latihan
-1. Buka beberapa website. Tunjukkan kepada peserta bagian **Header**, **Navigation**, **Content**, **Sidebar**, **Footer** dari tiap website.
-2. Berdasarkan contoh no.1, Gambar struktur website menggunakan Paper Protoyping.
-
----
-
-### Review
-1.
-
----
-
-### Referensi
-1. [Test Paper Prototypes to Save Time and Money: The Mozilla Case Study](https://www.nngroup.com/articles/mozilla-paper-prototype/ "Test Paper Prototypes to Save Time and Money: The Mozilla Case Study")
+#### 3. User Experience (UX)
+- [x] HTML = Structure
+- [x] CSS = Design
+- [x] Links
 
 ---
 
