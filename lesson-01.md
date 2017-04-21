@@ -23,9 +23,21 @@
 ### Materi
 
 #### 1. Teknologi dalam website development
-  * Front-end: HTML, CSS, JavaScript.
-  * Back-end: PHP, Python, Ruby, Java, dll.
-  * Database: MySQL, PostgreSQL, Oracle, dll.
+  * Front-end:
+      * HTML
+      * CSS
+      * JavaScript.
+  * Back-end:
+      * PHP
+      * Python
+      * Ruby
+      * Java
+      * Dll
+  * Database:
+      * MySQL
+      * PostgreSQL
+      * Oracle
+      * Dll
 
 #### 2. Tools dalam website development
   * Text Editor:
