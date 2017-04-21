@@ -17,24 +17,55 @@
 
 ### Materi
 
-#### 1. Download Bootstrap
-* Gunakan bootstrap
-* CSS = Design
-* JavaScript = Interactivity
+#### 1. Persiapan
+* Download Bootstrap di http://getbootstrap.com/css/#grid
+* Copy file `bootstrap.css` atau `bootstrap.min.css` ke folder latihan.
 
-#### 2. Tools front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
-
-#### 3.
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 2. Container dan Row sebagai parent dari kolom-kolom.
+* Bootstrap 1 Kolom
+  ```html
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        Satu kolom
+      </div>
+    </div>
+  </div>
+  ```
+* Bootstrap 2 Kolom
+  ```html
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-6">
+        Kolom 1
+      </div>
+      <div class="col-xs-6">
+        Kolom 2
+      </div>
+    </div>
+  </div>
+  ```
+* Bootstrap 3 Kolom
+  ```html
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-4">
+        Kolom 1
+      </div>
+      <div class="col-xs-4">
+        Kolom 2
+      </div>
+      <div class="col-xs-4">
+        Kolom 3
+      </div>
+    </div>
+  </div>
+  ```
 
 ---
 
 ### Latihan
+2. Peserta membuat 2 dan 3 kolom bagian website seperti **lesson-03**, namun menggunakan Bootstrap.
 
 ---
 
