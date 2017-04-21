@@ -58,6 +58,20 @@
 ---
 
 ### Latihan
+1. Buat file HTML:
+  * Logo
+  * Navigasi anchor / link
+  * Heading
+  * Content
+  * Images
+  * Video
+2. Buat file CSS eksternal:
+  * Class
+  * Aturan:
+    * background-color
+    * color
+    * font-size
+    * dll
 
 ---
 
