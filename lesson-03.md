@@ -11,26 +11,104 @@
 
 ### Tujuan
 1. Peserta mengerti struktur website dibentuk dari **HTML div**, dibantu **CSS float**.
-2. Peserta mampu membuat baris dan kolom bagian website menggunakan **HTML div** dan **CSS float**.
+2. Peserta mampu membuat baris dan kolom menggunakan **HTML div** dan **CSS float**.
 
 ---
 
 ### Materi
 
-#### 1. Teknologi front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 1. HTML dan CSS 1 Kolom
+* HTML `index.html`
+  ```html
+  <div class="parent">
+    Ini div 1 kolom
+  </div>
+  ```
+* CSS `style.css`
+  ```css
+  .parent {
+    background-color: #ff0000;
+    height: 200px;
+    width: 100%;
+  }
+  ```
 
-#### 2. Tools front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 2. HTML dan CSS 2 Kolom
+* HTML `index.html`
+  ```html
+  <div class="parent">
+    <div class="kolom1">
+      Kolom 1
+    </div>
+    <div class="kolom2">
+      Kolom 2
+    </div>
+  </div>
+  ```
+* CSS `style.css`
+  ```css
+  .parent {
+    background-color: #ff0000;
+    height: 200px;
+    width: 100%;
+  }
 
-#### 3.
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+  .kolom1 {
+    background-color: #00ff00;
+    float: left;
+    height: 100px;
+    width: 50%;
+  }
+
+  .kolom2 {
+    background-color: #0000ff;
+    float: right;
+    height: 150px;
+    width: 50%;
+  }
+  ```
+
+#### 3. HTML dan CSS 3 Kolom
+* HTML `index.html`
+  ```html
+  <div class="parent">
+    <div class="kolom1">
+      Kolom 1
+    </div>
+    <div class="kolom2">
+      Kolom 2
+    </div>
+  </div>
+  ```
+* CSS `style.css`
+  ```css
+  .parent {
+    background-color: #ff0000;
+    height: 200px;
+    width: 100%;
+  }
+
+  .kolom1 {
+    background-color: #00ff00;
+    float: left;
+    height: 50px;
+    width: 30%;
+  }
+
+  .kolom2 {
+    background-color: #0000ff;
+    float: left;
+    height: 100px;
+    width: 40%;
+  }
+
+  .kolom3 {
+    background-color: #ffff00;
+    float: left;
+    height: 150px;
+    width: 30%;
+  }
+  ```
 
 ---
 
