@@ -17,26 +17,42 @@
 
 ### Materi
 
-#### 1. Teknologi front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
-
-#### 2. Tools front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
-
-#### 3.
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 1. Class Responsive
+* Extra small devices Phones (<768px)
+  ```html
+  <div class="col-xs-6">
+    Ini untuk Phones
+  </div>
+  ```
+* Small devices Tablets (≥768px)
+  ```html
+  <div class="col-sm-6">
+    Ini untuk Tablets
+  </div>
+  ```
+* Medium devices Desktops (≥992px)
+  ```html
+  <div class="col-md-6">
+    Ini untuk Desktops
+  </div>
+  ```
+* Large devices Desktops (≥1200px)
+  ```html
+  <div class="col-lg-6">
+    Ini untuk Large Screen
+  </div>
+  ```
+* Digabung semua
+  ```html
+  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+    Ini untuk Large Screen
+  </div>
+  ```
 
 ---
 
 ### Latihan
-1. Buka beberapa website. Tunjukkan kepada peserta bagian **Header**, **Navigation**, **Content**, **Sidebar**, **Footer** dari tiap website.
-2. Berdasarkan contoh no.1, Gambar struktur website menggunakan Paper Protoyping.
+1. Buat halaman yang responsive ketika dibuka pada Phone, Tablet, Desktop dan Large Screen.
 
 ---
 
@@ -47,7 +63,7 @@
 ---
 
 ### Referensi
-1. [Bootstrap Official](http://getbootstrap.com/ "Bootstrap Official")
+1. [Bootstrap Grid](http://getbootstrap.com/css/#grid "Bootstrap Grid")
 2. [Front-End Web UI Frameworks and Tools](https://www.coursera.org/learn/web-frameworks "Front-End Web UI Frameworks and Tools")
 2. [Introduction to Bootstrap](https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-2 "Introduction to Bootstrap")
 
