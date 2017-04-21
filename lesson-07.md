@@ -60,5 +60,5 @@
 [4]: lesson-04.md "Intro Framework"
 [5]: lesson-05.md "Framework Lanjutan"
 [6]: lesson-06.md "Personal Project"
-[7]: lesson-07.md "Domain, Hosting dan Git"
+[7]: lesson-07.md "Domain, Hosting dan GitHub"
 [8]: lesson-08.md "Presentasi"

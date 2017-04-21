@@ -12,7 +12,7 @@
 
 ----
 
-### LESSON 02: HTML DAN CSS DASAR (menggunakan Notepad)
+### LESSON 02: HTML DAN CSS DASAR
 #### Tujuan:
 1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor sederhana.
 2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
@@ -87,5 +87,5 @@
 [4]: lesson-04.md "Intro Framework"
 [5]: lesson-05.md "Framework Lanjutan"
 [6]: lesson-06.md "Personal Project"
-[7]: lesson-07.md "Domain, Hosting dan Git"
+[7]: lesson-07.md "Domain, Hosting dan GitHub"
 [8]: lesson-08.md "Presentasi"
