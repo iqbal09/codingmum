@@ -6,9 +6,6 @@
 ---
 
 ### LESSON 01: INTRO WEBSITE DEVELOPMENT
-- Penjelasan global Website Development (dan scope yang dicover dalam Coding Mum).
-- Protoyping struktur website menggunakan kertas. E.g. Header, Content, Sidebar, Footer.
-
 ## Tujuan:
 1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
@@ -16,61 +13,44 @@
 ----
 
 ## LESSON 02: HTML DAN CSS DASAR (menggunakan Notepad)
-- Coding dasar HTML. E.g. h1-6, p, a, li, img, etc.
-- Coding dasar CSS. E.g. external css, class, etc.
-- Pembuatan beberapa halaman statis sebagai pengenalan sistem page dalam website.
-
 ## Tujuan:
-a. Peserta mampu membuat HTML dan CSS dasar dengan text editor sederhana.
-b. Peserta mengerti sistem page dalam suatu website.
+1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor sederhana.
+2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
 
 ----
 
-# Lesson 3: Lanjutan HTML dan CSS (menggunakan Brackets)
-- Pembuatan struktur website dengan HTML dan CSS. E.g. div, sp an, float, etc.
-- Pembuatan homepage statis. Pilih misal www.tesla.com.
-
+# LESSON 03: STRUKTUR WEBSITE
 ## Tujuan:
-a. Peserta mampu membuat layout website menggunakan div dan float.
+1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
+2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
 
 ----
 
-# Lesson 4: Dasar Bootstrap
-- Pengenalan grid dalam Bootstrap.
-- Pembuatan homepage statis www.tesla.com menggunakan Bootstrap.
-
+# LESSON 04: INTRO FRAMEWORK
 ## Tujuan:
-a. Peserta mengerti konsep grid dalam membangun layout website.
+1. Peserta mengetahui framework sebagai alat bantu pemercepat pembuatan website.
+2. Peserta mampu membangun website menggunakan framework Bootstrap.
 
 ----
 
-# Lesson 5: Lanjutan Bootstrap
-- Pengenalan fitur-fitur lanjutan dalam Bootstrap.
-- Pembuatan proyek personal masing-masing.
-
+# LESSON 05: FRAMEWORK LANJUTAN
 ## Tujuan:
-a. Peserta mampu menambahkan fitur-fitur Bootstrap ke dalam website.
-b. Peserta mulai membuat proyek website masing-masing menggunakan Bootstrap.
+1. Peserta mengerti konsep website responsive.
+2. Peserta mampu menggunakan class pada Bootstrap untuk mobile, tablet, desktop dan large screen.
 
 ----
 
-# Lesson 6: JavaScript
-- Pengenalan JavaScript sebagai pendukung pembuatan website.
-- Penambahan element-element berbasis JavaScript di website.
-
+# LESSON 06: PERSONAL PROJECT
 ## Tujuan:
-a. Peserta mampu menambahkan JavaScript dalam website.
+1. Peserta mulai mengerjakan **Personal Project**.
 
 ----
 
-# Lesson 7: Hosting dan Domain
-- Domain: Penjelasan bahwa domain adalah alamat website yang bisa dibeli dengan relatif murah.
-- Hosting: Penjelasan bahwa website membutuhkan tempat agar bisa diakses online.
-- Github: Bisa dijadikan hosting gratis dan sekaligus portfolio.
-
+# LESSON 07: DOMAIN, HOSTING DAN GITHUB
 ## Tujuan:
-a. Peserta mengerti perbedaan domain dan hosting.
-b. Peserta bisa mengupload websitenya ke Github, sebagai hosting dan portfolio.
+1. Peserta mampu membedakan antara **domain** dan **hosting**.
+2. Peserta mampu mengunggah website ke **hosting**.
+3. Peserta mampu menggunakan **Github** sebagai tempat penyimpanan kode dan hosting statis. (optional)
 
 ----
 
