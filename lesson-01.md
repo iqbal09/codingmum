@@ -20,6 +20,13 @@
 
 ---
 
+### Tools
+  * Kertas
+  * Pulpen
+  * Penggaris
+
+---
+
 ### Materi
 
 #### 1. Teknologi dalam website development
