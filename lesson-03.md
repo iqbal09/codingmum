@@ -10,8 +10,8 @@
 ---
 
 ### Tujuan
-1. Peserta mengerti struktur website dibentuk dari **HTML div**, dibantu **CSS float**.
-2. Peserta mampu membuat baris dan kolom menggunakan **HTML div** dan **CSS float**.
+1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
+2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
 
 ---
 
@@ -116,8 +116,8 @@
 ---
 
 ### Latihan
-1. Peserta membuat struktur website **Header**, **Content**, **Sidebar**, **Footer** menggunakan **HTML** **<div>**.
-2. Peserta membuat 2 dan 3 kolom bagian website menggunakan **HTML** **<div>** dan **CSS** **float**.
+1. Peserta membuat struktur website **Header**, **Content**, **Sidebar**, **Footer** menggunakan **HTML** `<div>`.
+2. Peserta membuat 2 dan 3 kolom bagian website menggunakan **HTML** `<div>` dan **CSS** `float`.
 
 ---
 
