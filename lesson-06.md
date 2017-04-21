@@ -1,69 +1,68 @@
 # CODING MUM
 
 | [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Lesson 08][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
 
 ---
 
-### LESSON VI: Bootstrap Dasar
+### LESSON 06: PERSONAL PROJECT
 
 ---
 
 ### Tujuan
-1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
-2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
-  * Header
-  *  Navigation
-  *  Content
-  *  Sidebar
-  *  Footer
+1. Peserta mulai mengerjakan **Personal Project**.
 
 ---
 
 ### Materi
 
-#### 1. Teknologi front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 1. Menentukan tipe website apa yang ingin dibuat:
+* Company profile
+* Toko online
+* News
+* Dll
 
-#### 2. Tools front-end website
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 2. Mencari beberapa website yang disukai atau kompetitor:
+* Sebagai inspirasi bagi website yang akan dibuat.
+* Sebagai acuan batas bawah kualitas website yang akan dibuat.
 
-#### 3.
-* HTML = Structure
-* CSS = Design
-* JavaScript = Interactivity
+#### 3. Memetakan arsitektur informasi website:
+* Navigasi dan peletakannya
+    * Navigasi atas
+    * Navigasi bawah
+* Page atau halaman website
+    * Beranda
+    * Tentang Kami
+    * Kontak Kami
+    * Dll
 
 ---
 
 ### Latihan
-1. Buka beberapa website. Tunjukkan kepada peserta bagian **Header**, **Navigation**, **Content**, **Sidebar**, **Footer** dari tiap website.
-2. Berdasarkan contoh no.1, Gambar struktur website menggunakan Paper Protoyping.
+1. Mulai membuat website. Peserta bebas menggunakan framework atau tidak.
 
 ---
 
 ### Review
-1.
+1. Apa yang menjadi bottleneck dari lesson 06 ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi lesson 06 ini?
 
 ---
 
 ### Referensi
-1. [Test Paper Prototypes to Save Time and Money: The Mozilla Case Study](https://www.nngroup.com/articles/mozilla-paper-prototype/ "Test Paper Prototypes to Save Time and Money: The Mozilla Case Study")
+
 
 ---
 
 | [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Lesson 08][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
 
-[0]: README.md "Pengenalan Website Development"
+[0]: README.md "Home"
 [1]: lesson-01.md "Pengenalan Website Development"
-[2]: lesson-02.md "Pengenalan Website Development"
-[3]: lesson-03.md "Pengenalan Website Development"
-[4]: lesson-04.md "Pengenalan Website Development"
-[5]: lesson-05.md "Pengenalan Website Development"
-[6]: lesson-06.md "Pengenalan Website Development"
-[7]: lesson-07.md "Pengenalan Website Development"
-[8]: lesson-08.md "Pengenalan Website Development"
+[2]: lesson-02.md "HTML dan CSS Dasar"
+[3]: lesson-03.md "Struktur Website"
+[4]: lesson-04.md "Intro Framework"
+[5]: lesson-05.md "Framework Lanjutan"
+[6]: lesson-06.md "Personal Project"
+[7]: lesson-07.md "Domain, Hosting dan Git"
+[8]: lesson-08.md "Presentasi"

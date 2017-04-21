@@ -1,21 +1,21 @@
 # CODING MUM
 
 | [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Lesson 08][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
 
 ---
 
-# Lesson 1: Pengenalan Web Development
+### LESSON 01: INTRO WEBSITE DEVELOPMENT
 - Penjelasan global Website Development (dan scope yang dicover dalam Coding Mum).
 - Protoyping struktur website menggunakan kertas. E.g. Header, Content, Sidebar, Footer.
 
 ## Tujuan:
-a. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
-b. Peserta mampu mengenali struktur layout ketika melihat suatu website.
+1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
+2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
 
 ----
 
-# Lesson 2: Dasar HTML dan CSS (menggunakan Notepad)
+## LESSON 02: HTML DAN CSS DASAR (menggunakan Notepad)
 - Coding dasar HTML. E.g. h1-6, p, a, li, img, etc.
 - Coding dasar CSS. E.g. external css, class, etc.
 - Pembuatan beberapa halaman statis sebagai pengenalan sistem page dalam website.
@@ -100,14 +100,14 @@ b. Peserta mengerti kerapian dan standardisasi kode akan membantu dalam debuggin
 ---
 
 | [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Lesson 08][8] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
 
-[0]: README.md "Pengenalan Website Development"
+[0]: README.md "Home"
 [1]: lesson-01.md "Pengenalan Website Development"
-[2]: lesson-02.md "Pengenalan Website Development"
-[3]: lesson-03.md "Pengenalan Website Development"
-[4]: lesson-04.md "Pengenalan Website Development"
-[5]: lesson-05.md "Pengenalan Website Development"
-[6]: lesson-06.md "Pengenalan Website Development"
-[7]: lesson-07.md "Pengenalan Website Development"
-[8]: lesson-08.md "Pengenalan Website Development"
+[2]: lesson-02.md "HTML dan CSS Dasar"
+[3]: lesson-03.md "Struktur Website"
+[4]: lesson-04.md "Intro Framework"
+[5]: lesson-05.md "Framework Lanjutan"
+[6]: lesson-06.md "Personal Project"
+[7]: lesson-07.md "Domain, Hosting dan Git"
+[8]: lesson-08.md "Presentasi"
