@@ -139,7 +139,7 @@
 
 ---
 
-### Review
+### Feedback
 1. Apa yang menjadi bottleneck dari **lesson 02** ini?
 2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini?
 

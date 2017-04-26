@@ -63,7 +63,7 @@
 5. Information Architecture (IA)
 
 ----
-
+<!---
 ### Catatan:
 1. HTML dan CSS dijadikan materi utama kurikulum Coding Mum. Alumni diharapkan bisa menjadi front-end developer yang memiliki pengetahuan HTML dan CSS solid, ditambah kemampuan menggunakan JavaScript sebagai pendukung.
 
@@ -76,7 +76,7 @@
 5. The art of searching. Kelas tidak bisa mengcover seluruh ilmu. Beritahu trik mencari solusi di Google dengan keyword yang spesifik.
 
 ---
-
+-->
 | [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Presentasi][8] |
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
 
