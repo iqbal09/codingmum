@@ -5,7 +5,7 @@
 
 ---
 
-### LESSON 01: INTRO WEBSITE DEVELOPMENT
+### LESSON 01: INTRO TO WEBSITE DEVELOPMENT
 
 ---
 
@@ -95,7 +95,7 @@
 
 ---
 
-### Referensi
+### References
 1. [Test Paper Prototypes to Save Time and Money: The Mozilla Case Study](https://www.nngroup.com/articles/mozilla-paper-prototype/ "Test Paper Prototypes to Save Time and Money: The Mozilla Case Study")
 
 ---
@@ -104,7 +104,7 @@
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "Pengenalan Website Development"
+[1]: lesson-01.md "Intro to Website Development"
 [2]: lesson-02.md "HTML dan CSS Dasar"
 [3]: lesson-03.md "Struktur Website"
 [4]: lesson-04.md "Intro Framework"

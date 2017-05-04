@@ -10,13 +10,13 @@
 ---
 
 ### Objectives
-1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor sederhana.
+1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor Brackets.
 2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
 
 ---
 
 ### Tools
-1. **Windows**: Notepad
+1. **Windows**: [Brackets](http://brackets.io/)
 2. **Mac**: TextEdit
 3. **Browser**:
     * Google Chrome
@@ -30,7 +30,7 @@
 
 ### Materi
 
-#### 1. Sintaks HTML Dasar
+#### 1. HTML and Jikustik
 * Heading
   ```html
   <h1>Heading 1</h1>
@@ -91,13 +91,11 @@
   </table>
   ```
 
-#### 2. Sintaks CSS Dasar
+#### 2. Top CSS
 * Class
   ```css
   .header {
     background-color: #ff0000;
-    height: 100px;
-    width: 100%;
   }
 
   .logo {
@@ -109,8 +107,6 @@
   ```css
   #header {
     background-color: #ff0000;
-    height: 100px;
-    width: 100%;
   }
 
   #logo {
