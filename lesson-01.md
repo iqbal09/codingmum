@@ -9,7 +9,7 @@
 
 ---
 
-### Tujuan
+### Objectives
 1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
     * Header
@@ -21,62 +21,62 @@
 ---
 
 ### Tools
-  * Kertas
-  * Pulpen
-  * Penggaris
+  * Paper
+  * Pen
+  * Ruler (optional)
 
 ---
 
-### Materi
+### Material
 
-#### 1. Teknologi dalam website development
+#### 1. Web Development Technologies
   * Front-end:
       * HTML
       * CSS
-      * JavaScript.
+      * JavaScript
   * Back-end:
       * PHP
       * Python
       * Ruby
       * Java
-      * Dll
+      * etc
   * Database:
       * MySQL
       * PostgreSQL
       * Oracle
-      * Dll
+      * etc
 
-#### 2. Tools dalam website development
+#### 2. Website Development Tools
   * Text Editor:
       * Notepad
       * Sublime Text
       * Atom
       * Brackets
-      * Dll
+      * etc
   * Browser:
       * Google Chrome
       * Mozilla Firefox
       * Internet Explorer
       * Opera
       * Safari
-      * Dll
-  * Browser Extension / Plugin:
+      * etc
+  * Browser Extension / Plugin (optional):
       * Inspect Element
-      * Web developer
-      * Dll
+      * Web Developer
+      * etc
 
-#### 3. Struktur dalam website
+#### 3. Website Structure
   * Header
   * Navigation
   * Wow Factor (Slider, Parallax, Carousel, dll)
   * Content
   * Sidebar
   * Footer
-  * Dll
+  * etc
 
 ---
 
-### Latihan
+### Exercises
 1. Buka beberapa website. Tunjukkan kepada peserta bagian dari tiap website:
     * Header
     * Navigation
@@ -84,7 +84,7 @@
     * Content
     * Sidebar
     * Footer
-    * Dll
+    * etc
 2. Gambarkan struktur website yang diinginkan menggunakan Paper Protoyping.
 
 ---

@@ -9,7 +9,7 @@
 
 ---
 
-### Tujuan
+### Objectives
 1. Peserta mengerti konsep website responsive.
 2. Peserta mampu menggunakan class pada Bootstrap untuk mobile, tablet, desktop dan large screen.
 

@@ -5,11 +5,11 @@
 
 ---
 
-### LESSON 02: HTML DAN CSS DASAR
+### LESSON 02: HTML AND CSS
 
 ---
 
-### Tujuan
+### Objectives
 1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor sederhana.
 2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
 

@@ -5,18 +5,18 @@
 
 ---
 
-### LESSON 07: DOMAIN, HOSTING DAN GITHUB
+### LESSON 07: DOMAIN, HOSTING AND GITHUB
 
 ---
 
-### Tujuan
+### Objectives
 1. Peserta mampu membedakan antara **domain** dan **hosting**.
 2. Peserta mampu mengunggah website ke **hosting**.
 3. Peserta mampu menggunakan **Github** sebagai tempat penyimpanan kode dan hosting statis. (optional)
 
 ---
 
-### Materi
+### Material
 
 #### 1. Domain dan Hosting
 * Perbedaan antara **Domain** dan **Hosting**
@@ -31,7 +31,7 @@
 
 ---
 
-### Latihan
+### Exercises
 1. Membuat akun hosting gratis di https://www.hostinger.co.id/.
 2. Mengunggah personal project di https://www.hostinger.co.id/.
 3. Membuat akun gratis di https://github.com/. (optional)
@@ -45,7 +45,7 @@
 
 ---
 
-### Referensi
+### References
 * [GitHub Pages](https://pages.github.com/ "GitHub Pages")
 
 ---

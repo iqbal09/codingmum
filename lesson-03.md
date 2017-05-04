@@ -5,11 +5,11 @@
 
 ---
 
-### LESSON 03: STRUKTUR WEBSITE
+### LESSON 03: WEBSITE STRUCTURE
 
 ---
 
-### Tujuan
+### Objectives
 1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
 2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
 

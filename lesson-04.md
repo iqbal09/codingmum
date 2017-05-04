@@ -5,11 +5,11 @@
 
 ---
 
-### LESSON 04: INTRO FRAMEWORK
+### LESSON 04: INTRO TO FRAMEWORK
 
 ---
 
-### Tujuan
+### Objectives
 1. Peserta mengetahui framework sebagai alat bantu pemercepat pembuatan website.
 2. Peserta mampu membangun website menggunakan framework Bootstrap.
 

@@ -9,7 +9,7 @@
 
 ---
 
-### Tujuan
+### Objectives
 1. Peserta mulai mengerjakan **Personal Project**.
 
 ---

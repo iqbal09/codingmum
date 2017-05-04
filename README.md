@@ -5,62 +5,62 @@
 
 ---
 
-### LESSON 01: INTRO WEBSITE DEVELOPMENT
-#### Tujuan:
+### LESSON 01: INTRO TO WEBSITE DEVELOPMENT
+#### Objectives:
 1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
 
 ----
 
-### LESSON 02: HTML DAN CSS DASAR
-#### Tujuan:
+### LESSON 02: HTML AND CSS
+#### Objectives:
 1. Peserta mampu membuat **HTML** dan **CSS** dasar dengan text editor sederhana.
 2. Peserta mengerti pemisahan **HTML sebagai struktur** dan **CSS sebagai presentasi** dalam website.
 
 ----
 
-### LESSON 03: STRUKTUR WEBSITE
-#### Tujuan:
+### LESSON 03: WEBSITE STRUCTURE
+#### Objectives:
 1. Peserta mengerti struktur website dibentuk dari **HTML** `div`, dibantu **CSS** `float`.
 2. Peserta mampu membuat baris dan kolom menggunakan **HTML** `div` dan **CSS** `float`.
 
 ----
 
-### LESSON 04: INTRO FRAMEWORK
-#### Tujuan:
+### LESSON 04: INTRO TO FRAMEWORK
+#### Objectives:
 1. Peserta mengetahui framework sebagai alat bantu pemercepat pembuatan website.
 2. Peserta mampu membangun website menggunakan framework Bootstrap.
 
 ----
 
-### LESSON 05: FRAMEWORK LANJUTAN
-#### Tujuan:
+### LESSON 05: FRAMEWORK
+#### Objectives:
 1. Peserta mengerti konsep website responsive.
 2. Peserta mampu menggunakan class pada Bootstrap untuk mobile, tablet, desktop dan large screen.
 
 ----
 
 ### LESSON 06: PERSONAL PROJECT
-#### Tujuan:
+#### Objectives:
 1. Peserta mulai mengerjakan **Personal Project**.
 
 ----
 
-### LESSON 07: DOMAIN, HOSTING DAN GITHUB
-#### Tujuan:
+### LESSON 07: DOMAIN, HOSTING AND GITHUB
+#### Objectives:
 1. Peserta mampu membedakan antara **domain** dan **hosting**.
 2. Peserta mampu mengunggah website ke **hosting**.
 3. Peserta mampu menggunakan **Github** sebagai tempat penyimpanan kode dan hosting statis. (optional)
 
 ----
 
-### LESSON 8: PRESENTASI
+### LESSON 8: PRESENTATION
 #### Elemen penilaian:
-1. Kode
-2. Fungsional
-3. User Interface (UI)
-4. User Experience (UX)
-5. Information Architecture (IA)
+1. Code
+2. Functionality
+3. Information Architecture (IA)
+4. User Interface (UI)
+5. User Experience (UX)
 
 ----
 <!---

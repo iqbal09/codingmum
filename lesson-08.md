@@ -5,7 +5,7 @@
 
 ---
 
-### LESSON 08: PRESENTASI
+### LESSON 08: PRESENTATION
 
 ---
 
@@ -21,13 +21,13 @@
 - [x] Anchor atau link bekerja dengan baik
 
 #### 3. User Interface (UI)
-- [x] Topography solid
-- [x] Typography baik
-- [x] Harmonisasi warna indah
+- [x] Solid Topography
+- [x] Beautiful Typography
+- [x] Color Harmony
 
 #### 4. User Experience (UX)
-- [x] Navigasi mudah
-- [x] Hierarki informasi jelas
+- [x] Easy Navigation
+- [x] Clear Information Hierarchy
 
 #### 5. Information Architecture (IA)
 - [x] Hierarki informasi jelas
