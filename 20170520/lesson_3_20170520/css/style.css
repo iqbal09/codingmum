@@ -1,0 +1,30 @@
+.parent {
+	background-color: #ff0000;
+	height: 200px;
+	width: 100%;
+}
+
+.kolom1 {
+	background-color: #00ff00;
+	float: left;
+	height: 100px;
+	width: 30%;
+	/*width: 50%;*/
+}
+
+.kolom2 {
+	background-color: #0000ff;
+	/*float: right;*/
+	float: left;
+	height: 150px;
+	width: 40%;
+	/*width: 50%;*/
+}
+.kolom3 {
+	background-color: #000000;
+	/*float: right;*/
+	float: left;
+	height: 200px;
+	width: 30%;
+	/*width: 50%;*/
+}
